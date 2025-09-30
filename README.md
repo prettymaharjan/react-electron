@@ -65,3 +65,10 @@ npm install ts-loader style-loader css-loader html-webpack-plugin copy-webpack-p
 npm start
 
 ```
+---
+
+## ✨ Preview
+
+![Electron App Screenshot](https://imgur.com/5KNLnpt.png)
+
+> 💡 This is what your app looks like on launch. Clean, simple, and ready to build on.
