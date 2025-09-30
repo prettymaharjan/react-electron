@@ -8,7 +8,7 @@
 ## 🚀 Why This Exists
 
 Most React-Electron boilerplates online are either outdated, broken, or confusing. This one just works.  
-No weird configs. No deprecated packages. Just a clean setup that launches your app with a single command.
+No weird configs. Very few deprecated packages. Just a clean setup that launches your app with a single command.
 
 ---
 
